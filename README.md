@@ -33,8 +33,8 @@ project/
 │   └── uploads/
 │
 ├── views/
-│   ├── index.ejs
-│   └── result.ejs
+│   ├── index.html
+│   └── result.html
 │
 ├── routes/
 │   └── api.js
