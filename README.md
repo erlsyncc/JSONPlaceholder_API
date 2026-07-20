@@ -16,9 +16,6 @@ This project demonstrates how to integrate a public API into a web application. 
 
 ## Technologies Used
 
-- Node.js
-- Express.js
-- EJS
 - HTML5
 - CSS3
 - JavaScript
