@@ -4,22 +4,24 @@ A simple web application that converts uploaded images into SVG (Scalable Vector
 
 ## Project Description
 
-This project demonstrates how to integrate a public API into a web application. Users can upload an image, which is sent to the SVG.new API for processing. The generated SVG is then displayed on the website and can be downloaded.
+This project is a browser-based SVG converter application built using HTML, CSS, and JavaScript. Users can upload an image file and send it to the SVG.new API for vector conversion. The generated SVG output is displayed directly on the webpage.
 
 ## Features
 
-- Upload PNG, JPG, or JPEG images
-- Convert images to SVG using the SVG.new API
-- Display the generated SVG
-- Download the converted SVG
-- Error handling for invalid uploads and API failures
+- Upload PNG, JPG, JPEG, or WEBP images
+- Convert images into SVG format using SVG.new API
+- Display generated SVG output directly in the browser
+- Preview converted vector artwork
+- API response handling
+- Error messages for failed requests
+- Simple and responsive user interface
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
-- Axios (or Fetch API)
+- JavaScript (Vanilla JS)
+- Fetch API
 - SVG.new API
 
 ## Project Structure
